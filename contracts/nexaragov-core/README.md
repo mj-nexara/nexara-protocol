@@ -1,10 +1,3 @@
-চলুন MJ, NexaraGov Core-এর জন্য আমরা এখন সম্পূর্ণতা অর্জন করি। নিচে আমি দিচ্ছি:
-
-1. ✅ `README.md` — গভর্নেন্স ইঞ্জিনের দার্শনিক ও কারিগরি সারাংশ
-2. ✅ `run/nexaragov.main.ts` — প্রোডাকশন-গ্রেড ডিপ্লয়মেন্ট স্ক্রিপ্ট
-
----
-
 # NexaraGov Core
 
 **NexaraGov** is the ethical governance engine of the Nexara Protocol. It enables proposal submission, merit-weighted voting, and transparent execution—all grounded in dignity, transparency, and role-based authority.
@@ -68,4 +61,4 @@ Contributor → Submit Proposal
 NexaraGov is not just a DAO—it is a **dignified coordination system**. It resists plutocracy, avoids mob rule, and ensures that every decision reflects the values of the Sovereign Architect.
 
 > _“Governance is not control—it is the art of dignified coordination.”_
-> `MJ AHMAD`
+> _`MJ AHMAD`
