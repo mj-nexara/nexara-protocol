@@ -1,7 +1,9 @@
 site_name: Nexara Protocol
 site_description: Ethical Governance, Financial Sovereignty, and Incorruptible Automation
 site_author: MJ Ahmad
-repo_url: https://github.com/your-org/nexara-protocol
+repo_url: https://github.com/mj-nexara/nexara-protocol
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   logo: assets/logo.png
@@ -24,27 +26,33 @@ nav:
   - Glossary: glossary.md
   - Governance:
       - Visionary Roles: visionary-roles.md
-      - Persona Consistency: persona-consistency.md
+      - Persona Consistency: behavior/persona-consistency.md
       - Proposal Template: governance/proposal-template.md
-      - Decision Tree: governance/decision-tree.md
+      - Decision Tree: https://github.com/mj-nexara/nexaragov-core/blob/main/decision-tree.md
       - Voting Policy: governance/voting-policy.md
       - Emergency Protocol: governance/emergency-protocol.md
       - Ratification Process: governance/ratification-process.md
       - Ratified Actions: governance/ratified-actions.md
   - Treasury:
-      - Treasury Policy: ../nexara-treasury/README.md
+      - Treasury Policy: https://github.com/mj-nexara/nexara-treasury/blob/main/README.md
       - Purpose Registry: treasury/purpose-registry.md
       - Disbursement Log: treasury/disbursement-log.md
   - Merit System: merit-policy.md
+  - Deployment:
+      - Deployment Guide: deployment-guide.md
+      - Deployment Record: deployment-record.md
+  - Tokenomics: tokenomics.md
   - Security:
       - Threat Model: security/threat-model.md
-      - Audit Log Policy: security/audit-log-policy.md
+      - Audit Log Policy: audit-policy.md
       - Incident Response: security/incident-response.md
       - Guardian Handbook: security/guardian-handbook.md
   - Ethics Manifesto: ethics.md
   - Community:
       - Community Charter: community-charter.md
       - FAQ: faq.md
+  - Contributing: CONTRIBUTING.md
+  - Vision: vision.md
 
 markdown_extensions:
   - toc:
@@ -61,3 +69,8 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mj-nexara
