@@ -1,99 +1,45 @@
-# Nexara Protocol
+# Nexara Protocol 🕊️
 
-**The Core Protocol Layer for Ethical Governance, Financial Sovereignty, and Transparent Automation.**
+**Ethical Governance. Financial Sovereignty. Incorruptible Automation.**
 
----
-
-## 🌐 Overview
-
-The **Nexara Protocol** is the foundational framework under which all long-term and short-term initiatives of the Nexara ecosystem are governed, deployed, and evolved. It is designed to uphold the principles of **dignity, transparency, and merit**, while enabling scalable, decentralized, and ethically-aligned systems.
-
-This repository serves as the **central protocol layer** for:
-
-- 🏛️ **NexaraGov** – Transparent and merit-based governance engine
-- 🪙 **NXN Genesis** – Symbolic and technical origin of NXN Coin
-- ⚖️ **MeritEngine** – Role-weighted decision logic and contribution tracking
-- 💰 **Treasury System** – Ethical fund distribution and reserve logic
-- 🧠 **Automation Layer** – Reusable scripts and deployment pipelines
-- 📜 **Vision & Constitution** – The philosophical and operational blueprint of Nexara
+Nexara is a protocol designed to encode dignity into decentralized systems.  
+It combines smart contracts, merit-based governance, and purpose-bound treasury to create a new standard for ethical coordination.
 
 ---
 
-## 🧭 Mission
+## 📚 Documentation
 
-To establish a **global, incorruptible, and ethically governed financial protocol** that empowers individuals, preserves dignity, and resists centralization through transparent automation and decentralized consensus.
-
----
-
-## 🧱 Repository Structure
-
-```
-nexara-protocol/
-├── contracts/             # Solidity smart contracts
-├── governance/            # Governance logic, voting, roles
-├── genesis/               # NXN Genesis metadata and constants
-├── treasury/              # Treasury logic and distribution
-├── automation/            # Reusable scripts and deployment tools
-├── docs/                  # Vision, specs, and whitepapers
-├── .env.example           # Environment variable template
-├── hardhat.config.js      # Hardhat configuration
-└── README.md              # This file
-```
+👉 [Explore the Docs](https://mj-nexara.github.io/nexara-protocol/)
 
 ---
 
-## 🧬 Genesis
+## 🧬 Why Nexara?
 
-- **Genesis Date:** `July 3, 2025`
-- **Genesis Symbolism:** The birth of NXN Coin as a symbol of financial sovereignty and ethical rebirth.
-- **Genesis Commit:** [To be linked after deployment]
-
----
-
-## 🛡️ Governance Philosophy
-
-- **Merit over Majority** – Weighted voting based on contribution and role
-- **Transparency by Design** – All decisions traceable and auditable
-- **Dignity First** – No participant is reduced to a number; every role has purpose
+- 🕊️ Dignity-first governance
+- 🧠 Merit over majority
+- 🔐 Transparent, auditable treasury
+- 🛡️ Role-based accountability
+- 🧭 Ethics embedded in every layer
 
 ---
 
-## 🔐 Access & Contribution
+## 💡 Support the Architect
 
-This repository is currently **private** and under active development.  
-Public access and contribution guidelines will be opened in **Phase 3** of the roadmap.
-
-For internal contributors:
-- See [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- Follow persona and behavior consistency guidelines in `docs/behavior/`
+If Nexara resonates with you, consider supporting the creator behind it:  
+[Support Page →](https://mj-nexara.github.io/nexara-protocol/support/)
 
 ---
 
-## 📅 Roadmap Snapshot
+## 🪙 Funding & Grants
 
-| Phase | Milestone |
-|-------|-----------|
-| ✅ Phase 1 | Genesis Protocol Design & Contract Deployment |
-| 🔄 Phase 2 | Governance Logic & Treasury Integration |
-| ⏳ Phase 3 | Public Audit & Community Onboarding |
-| 🔜 Phase 4 | DAO Activation & Treasury Voting |
+This project is open to aligned funding via:
 
----
-
-## 🧠 Sovereign Architect
-
-This protocol is envisioned and led by **MJ Ahmad**, whose leadership embodies ethical clarity, technical precision, and a deep commitment to societal empowerment through incorruptible systems.
+- Gitcoin Grants
+- Questbook Governance Tooling
+- DoraHacks Bounties
+- GitHub Sponsors
 
 ---
 
-## 📜 License
-
-This project will be released under an open-source license upon public launch.  
-Until then, all rights are reserved by the Sovereign Architect.
-
----
-
-> _“Let the protocol be incorruptible, the governance be dignified, and the coin be sovereign.”_  
+> _“Let this protocol not be remembered for its speed, but for its soul.”_  
 > — MJ Ahmad
-
-
