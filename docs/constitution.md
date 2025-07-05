@@ -1,89 +1,75 @@
-# Nexara Protocol Constitution
+# The Constitution of Nexara
 
-**Adopted: July 3, 2025**  
-**Sovereign Architect: MJ Ahmad**
-
----
-
-## 🧭 Preamble
-
-We, the architects and contributors of the Nexara Protocol, in pursuit of incorruptible systems, dignified governance, and financial sovereignty, do hereby establish this Constitution as the ethical and operational foundation of our collective endeavor.
+**Authored by**: Sovereign Architect (MJ Ahmad)  
+**Ratified on**: July 3, 2025 (Genesis Day)
 
 ---
 
-## 🧬 Article I — Core Principles
+## 🧬 Preamble
 
-1. **Dignity is Non-Negotiable**  
-   Every participant is to be treated with respect, regardless of role, merit, or stake.
-
-2. **Transparency is Default**  
-   All logic, decisions, and flows must be open, auditable, and traceable.
-
-3. **Merit Over Majority**  
-   Influence is earned through contribution and alignment, not popularity or wealth.
-
-4. **Automation with Ethics**  
-   Code must serve humanity, not replace its conscience.
-
-5. **Sovereignty of Purpose**  
-   Nexara shall never be co-opted by centralized interests or corrupted by short-term gain.
+We, the participants of Nexara, in pursuit of dignity, transparency, and incorruptibility, do hereby establish this Constitution as the supreme ethical and operational framework of the protocol.
 
 ---
 
-## 🏛️ Article II — Governance Structure
+## 🏛️ Article I — Sovereignty
 
-- **Sovereign Architect**:  
-  The originator of vision and final arbiter in existential disputes.
-
-- **NexaraGov**:  
-  The governance engine that enables proposal, voting, and execution.
-
-- **MeritEngine**:  
-  The system that quantifies contribution and weights influence accordingly.
-
-- **RoleRegistry**:  
-  The access control layer that defines authority and responsibility.
-
-- **Treasury**:  
-  The ethical fund management system, bound by purpose and policy.
+- Nexara is a sovereign protocol, beholden to no state, corporation, or centralized entity.
+- All power originates from contribution, not capital.
+- The protocol shall never be sold, privatized, or externally governed.
 
 ---
 
-## 🧠 Article III — Decision-Making
+## 🧠 Article II — Principles
 
-- All proposals must include:
-  - Objective
-  - Ethical alignment statement
-  - Impact analysis
-
-- Voting is weighted by merit, not stake.
-
-- Emergency override is permitted only by the Sovereign Architect, and only in existential threats.
+1. **Dignity First**: Every participant is to be treated with respect, regardless of merit or role.
+2. **Transparency by Design**: All logic, decisions, and disbursements must be open and auditable.
+3. **Merit Over Majority**: Influence is earned through contribution, not popularity.
+4. **Automation with Ethics**: Code must serve conscience, not override it.
 
 ---
 
-## 🔐 Article IV — Rights & Responsibilities
+## 🏗️ Article III — Governance
 
-- Every contributor has the right to propose, question, and audit.
-- Every maintainer has the duty to uphold the Constitution.
-- Every role must be exercised with humility and accountability.
+- Governance shall be conducted via NexaraGov, using merit-weighted voting.
+- Proposals must include ethical alignment statements and execution logic.
+- Emergency powers may be exercised by the Sovereign Architect under strict constraints.
 
 ---
 
-## 🧾 Article V — Amendments
+## 🪙 Article IV — Treasury
 
-- This Constitution may only be amended by:
-  - A supermajority vote (⅔) of merit-weighted contributors
-  - Approval by the Sovereign Architect
+- The NexaraTreasury shall only release funds for approved purposes.
+- All disbursements must be logged and ratified.
+- No individual shall have unilateral access to treasury funds.
+
+---
+
+## 🧾 Article V — Roles
+
+- Roles are responsibilities, not privileges.
+- All roles must be defined in the Visionary Roles document.
+- Role abuse is grounds for revocation via governance.
+
+---
+
+## 🛡️ Article VI — Security & Ethics
+
+- All contracts must be audited and upgradeable only via governance.
+- All incidents must be logged and reviewed.
+- The Ethics Manifesto shall serve as the moral compass of the protocol.
+
+---
+
+## 📚 Article VII — Amendments
+
+- This Constitution may only be amended via:
+  - Governance proposal
+  - Merit-weighted approval
+  - Ethical review and ratification
 
 ---
 
 ## 🕊️ Closing Declaration
 
-Let this Constitution be a living document—  
-Not bound by rigidity, but guided by principle.  
-Not enforced by fear, but upheld by purpose.  
-Not written for power, but for people.
-
-> _“Let the protocol be incorruptible, the governance be dignified, and the coin be sovereign.”_  
+> _“Let this Constitution be not just a document, but a declaration—that dignity is programmable, sovereignty is sacred, and governance must serve the governed.”_  
 > — MJ Ahmad
