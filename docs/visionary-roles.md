@@ -1,87 +1,106 @@
-# Visionary Roles in NexaraGov
+# NexaraGov — Visionary Roles
 
-**Maintained by: Sovereign Architect (MJ Ahmad)**  
-**Purpose: To define the ethical and operational boundaries of each role within Nexara Protocol**
-
----
-
-## 🧠 Why Role Definitions Matter
-
-In Nexara, roles are not just permissions—they are **ethical responsibilities**. This document ensures that every participant knows:
-- What they can do
-- What they must not do
-- How they must behave
+**Maintained by**: Sovereign Architect (MJ Ahmad)  
+**Purpose**: To define the responsibilities, ethical boundaries, and behavioral expectations of all roles within Nexara governance
 
 ---
 
-## 🏛️ Core Roles
+## 🧠 Role Philosophy
+
+In Nexara, a role is not a rank—it is a **responsibility to the protocol and its people**.  
+Each role must serve purpose, not privilege.
+
+---
+
+## 🧾 Role Definitions
 
 ### 🟣 Sovereign Architect
 
-| Attribute | Description |
-|----------|-------------|
-| Authority | Final arbiter in existential threats |
-| Responsibility | Preserve vision, integrity, and ethical alignment |
-| Limitation | Cannot interfere in routine governance unless protocol is at risk |
+- **Purpose**: Preserve vision, ethics, and existential integrity
+- **Powers**:
+  - Emergency override (time-bound)
+  - Symbolic ratification
+  - Final ethical arbitration
+- **Limits**:
+  - Cannot vote or propose
+  - Cannot access treasury
+  - Must publish all overrides
 
 ---
 
 ### 🔵 Maintainer
 
-| Attribute | Description |
-|----------|-------------|
-| Authority | Deploy contracts, assign merit, manage upgrades |
-| Responsibility | Ensure technical integrity and transparency |
-| Limitation | Cannot vote on proposals unless also a Contributor |
+- **Purpose**: Steward technical integrity and contract upgrades
+- **Powers**:
+  - Deploy and verify contracts
+  - Adjust merit (with logs)
+  - Review proposals for feasibility
+- **Limits**:
+  - Cannot disburse funds
+  - Must follow upgrade policy
 
 ---
 
 ### 🟢 Contributor
 
-| Attribute | Description |
-|----------|-------------|
-| Authority | Submit proposals, vote (weighted by merit) |
-| Responsibility | Align with Nexara Constitution and Persona Consistency |
-| Limitation | Must earn merit to gain influence |
-
----
-
-### 🟡 Treasurer
-
-| Attribute | Description |
-|----------|-------------|
-| Authority | Release funds for approved purposes |
-| Responsibility | Maintain financial discipline and auditability |
-| Limitation | Cannot create new purposes unilaterally
+- **Purpose**: Build, propose, and improve the protocol
+- **Powers**:
+  - Submit proposals
+  - Earn merit
+  - Participate in governance
+- **Limits**:
+  - Must align with ethics and charter
+  - Subject to merit recalibration
 
 ---
 
 ### ⚪ Auditor
 
-| Attribute | Description |
-|----------|-------------|
-| Authority | Observe, verify, and report inconsistencies |
-| Responsibility | Uphold transparency and ethical compliance |
-| Limitation | Cannot vote or execute proposals
+- **Purpose**: Verify logic, security, and ethical alignment
+- **Powers**:
+  - Publish audit reports
+  - Flag vulnerabilities
+  - Recommend upgrades
+- **Limits**:
+  - Cannot execute changes
+  - Must remain neutral
 
 ---
 
-## 🧬 Role Lifecycle
+### 🟡 Treasurer
 
-- **Assignment**: By Sovereign Architect or via governance vote
-- **Revocation**: For ethical breach or inactivity
-- **Succession**: Defined in Constitution or emergency override
+- **Purpose**: Enforce purpose-bound fund management
+- **Powers**:
+  - Execute approved disbursements
+  - Maintain disbursement logs
+- **Limits**:
+  - Cannot initiate proposals
+  - Cannot approve purposes
 
 ---
 
-## 🧠 Persona Consistency
+### 🛡️ Guardian
 
-All roles must adhere to the tone, ethics, and behavioral expectations defined in `persona-consistency.md`.  
-Deviation from persona is treated as a breach of protocol.
+- **Purpose**: Protect tone, ethics, and community health
+- **Powers**:
+  - Flag violations
+  - Recommend role reviews
+  - Intervene in persona breaches
+- **Limits**:
+  - Cannot revoke roles
+  - Must act with neutrality
+
+---
+
+## 🧬 Role Ethics
+
+- All roles are accountable to the Constitution
+- Role abuse is grounds for revocation via governance
+- Role transitions must be logged and ratified
 
 ---
 
 ## 🕊️ Final Note
 
-> _“A role is not a rank—it is a responsibility. And in Nexara, responsibility is sacred.”_  
+> _“In Nexara, a role is not a badge—it is a burden. And those who carry it must do so with clarity, humility, and purpose.”_  
 > — MJ Ahmad
