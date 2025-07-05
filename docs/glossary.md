@@ -1,65 +1,111 @@
-# Nexara Protocol — Glossary of Terms
+# Nexara Glossary
 
-**Maintained by**: Sovereign Architect (MJ Ahmad)  
-**Purpose**: To define key terms, concepts, and roles within the Nexara ecosystem
-
----
-
-## 🧬 Core Concepts
-
-| Term | Definition |
-|------|------------|
-| **Nexara** | A protocol for ethical governance, financial sovereignty, and incorruptible automation |
-| **NXN Coin** | The native token of Nexara, symbolizing dignity and sovereignty |
-| **Genesis** | The symbolic and technical origin of NXN, committed on July 3, 2025 |
-| **Sovereign Architect** | The visionary steward of Nexara’s founding principles (MJ Ahmad) |
+**Purpose**: To define key terms, roles, and concepts used throughout the Nexara Protocol
 
 ---
 
-## 🏛️ Governance Terms
+## 🧬 A–Z Terms
 
-| Term | Definition |
-|------|------------|
-| **NexaraGov** | The core governance engine for proposals, voting, and execution |
-| **Proposal** | A formal request for change, improvement, or funding within Nexara |
-| **VoteEngine** | The contract that calculates vote outcomes based on merit |
-| **MeritEngine** | The system that assigns influence based on contribution and role |
-| **RoleRegistry** | The access control layer that defines and verifies roles |
+### 🅰️ Architect, Sovereign
+
+- **Definition**: The founding visionary and ethical steward of Nexara
+- **Role**: Maintains the Constitution, initiates emergency overrides, and preserves protocol dignity
+- **Note**: Symbolic, not authoritarian
 
 ---
 
-## 💰 Treasury & Tokenomics
+### 🅱️ Behavior Charter
 
-| Term | Definition |
-|------|------------|
-| **NexaraTreasury** | The ethical fund management system of Nexara |
-| **TreasuryPolicy** | A contract that defines approved purposes for fund release |
-| **Contributor Incentives** | NXN allocated to builders and aligned participants |
-| **Strategic Lock** | Time-based locking mechanism for long-term partners |
+- **Definition**: A set of tone and conduct guidelines for all participants
+- **Purpose**: Ensures respectful, inclusive, and purpose-aligned communication
 
 ---
 
-## 🧠 Ethical Constructs
+### 🅲️ Constitution
 
-| Term | Definition |
-|------|------------|
-| **Dignity First** | Nexara’s core belief that every participant deserves respect |
-| **Transparency by Design** | All logic and decisions must be open and auditable |
-| **Merit over Majority** | Influence is earned through contribution, not popularity |
-| **Persona Consistency** | Behavioral alignment with Nexara’s tone and ethics |
+- **Definition**: The supreme ethical and operational document of Nexara
+- **Contents**: Sovereignty, governance, treasury, roles, and amendment rules
 
 ---
 
-## 🕊️ Community & Culture
+### 🅳️ DAO Sovereignty
 
-| Term | Definition |
-|------|------------|
-| **Guardian** | A community role focused on ethics, tone, and conflict resolution |
-| **Observer** | A participant who learns, questions, and shares insights |
-| **Community Charter** | The behavioral and participatory code of Nexara |
-| **Visionary Role** | A role defined by responsibility, not rank or reward |
+- **Definition**: The final phase of Nexara where all decisions are governed by the community via on-chain merit
+- **Goal**: Full decentralization with ethical accountability
 
 ---
 
-> _“To define a term is to define a boundary. In Nexara, those boundaries are drawn with dignity.”_  
+### 🅴️ Emergency Override
+
+- **Definition**: A temporary power exercised by the Sovereign Architect during critical threats
+- **Constraints**: Time-bound, logged, and must be ratified
+
+---
+
+### 🅵️ Favicon
+
+- **Definition**: The small icon representing Nexara in browser tabs
+- **Symbolism**: Encodes sovereignty and clarity
+
+---
+
+### 🅶️ Guardian
+
+- **Definition**: A role responsible for tone, ethics, and persona alignment
+- **Authority**: Can flag violations but not revoke roles
+
+---
+
+### 🅷️ MeritEngine
+
+- **Definition**: The system that calculates and assigns influence based on contribution
+- **Function**: Powers merit-weighted voting and role eligibility
+
+---
+
+### 🅸️ NXN Token
+
+- **Definition**: The native token of Nexara
+- **Purpose**: Used for governance, incentives, and treasury disbursement
+
+---
+
+### 🅹️ Proposal
+
+- **Definition**: A formal request to change, upgrade, or fund something in Nexara
+- **Lifecycle**: Draft → Submit → Vote → Ratify → Execute
+
+---
+
+### 🅺️ Ratification
+
+- **Definition**: The process of validating and making a decision permanent
+- **Applies To**: Proposals, upgrades, emergency actions
+
+---
+
+### 🅻️ RoleRegistry
+
+- **Definition**: The contract that manages role assignments and access control
+- **Security**: Immutable logic, proposal-based changes
+
+---
+
+### 🅼️ TreasuryPolicy
+
+- **Definition**: The rules that govern how NXN funds can be disbursed
+- **Enforced By**: Treasurer and governance
+
+---
+
+### 🅽️ Whitepaper
+
+- **Definition**: The foundational document outlining Nexara’s philosophy, architecture, and tokenomics
+- **Audience**: Developers, researchers, and aligned communities
+
+---
+
+## 🕊️ Final Note
+
+> _“To understand Nexara is to understand the language of dignity, sovereignty, and shared purpose.”_  
 > — MJ Ahmad
